@@ -1,0 +1,8 @@
+name: FreedomRoamingMod
+main: me.StevenLawson.TotalFreedomMod.TotalFreedomMod
+version: 5
+description: Plugin for the FreedomRoaming server.
+softdepend: [BukkitTelnet, WorldEdit, Essentials]
+authors: [Madgeek1450, Prozza]
+
+# plugin.yml is no longer used to define commands.
